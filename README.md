@@ -8,3 +8,7 @@
 |그리디|하|큰 수의 법칙|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/large_number.java)||
 |그리디|하|숫자 카드 게임|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/card.java)||
 |그리디|하|1이 될 때까지|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java)||
+|구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
+|구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
+|구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
+|구현|중|게임 개발|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/game_develop.java)||
