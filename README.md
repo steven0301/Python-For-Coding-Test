@@ -11,4 +11,10 @@
 |구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
 |구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
 |구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
-|구현|중|게임 개발|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/game_develop.java)||
+|구현|중|게임 개발(미완성)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/game_develop.java)||
+|DFS/BFS|중하|음료수 얼려 먹기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/icde_beverage.java)||
+|DFS/BFS|중하|미로 탈출|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/maze.java)||
+|정렬|하|성적이 낮은 순서대로 학생 출력하기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/score.java)||
+|정렬|하|두 배열의 원소 교체|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/replace.java)||
+|이진탐색|중하|부품 찾기|[Java : 해쉬](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/search_part_hashset.java)[Java : 이진탐색](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/search_part_binary_search.java)||
+|정렬|중상|떡볶이 떡 만들기|[Java : 이진탐색](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/tteokbokki_binary_search.java)[Java : 완전탐색](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/tteokbokki.java)||
