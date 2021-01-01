@@ -9,6 +9,9 @@
 |그리디|하|숫자 카드 게임|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/card.java)||
 |그리디|하|1이 될 때까지|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java)||
 |그리디|하|모험가 길드|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/adventurer.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/adventurer.java)|
+|그리디|하|곱하기 혹은 더하기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/multiple_or_add.java)||
+|그리디|하|문자열 뒤집기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/letter_change.java)||
+|그리디|하|만들 수 없는 금액|[Java : 순열](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/unmakable_figure_permutation.java)|, [Java : 그리디](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/unmakable_figure_greedy.java)||
 |구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
 |구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
 |구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
