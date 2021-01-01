@@ -8,6 +8,7 @@
 |그리디|하|큰 수의 법칙|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/large_number.java)||
 |그리디|하|숫자 카드 게임|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/card.java)||
 |그리디|하|1이 될 때까지|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java)||
+|그리디|하|모험가 길드|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/adventurer.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/adventurer.java)|
 |구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
 |구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
 |구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
@@ -21,4 +22,4 @@
 |다이나믹 프로그래밍|중하|1로 만들기|[Java : 탑다운](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/dp_make_one_topdown.java) , [Java : 바텀업](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/dp_make_one_bottomup.java)||
 |다이나믹 프로그래밍|중상|개미 전사|[Java : 탑다운](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/ant_warrior_topdown.java) , [Java : 바텀업](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/ant_warrior_bottomup.java)||
 |다이나믹 프로그래밍|중상|바닥 공사|[Java : 탑다운](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/floor_work_topdown.java) , [Java : 바텀업](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/floor_work_bottomup.java)||
-|다이나믹 프로그래밍|중상|효율적인 화폐 구성|[Java : 바텀업](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/efficient_current.java)||
+|다이나믹 프로그래밍|중상|효율적인 화폐 구성|[Java : 바텀업](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/efficient_currency.java)||
