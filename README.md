@@ -12,7 +12,8 @@
 |그리디|하|곱하기 혹은 더하기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/multiple_or_add.java)||
 |그리디|하|문자열 뒤집기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/letter_change.java)||
 |그리디|하|만들 수 없는 금액|[Java : 순열](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/unmakable_figure_permutation.java), [Java : 그리디](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/unmakable_figure_greedy.java)||
-|그리디|하|볼링공 고르기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/bowling_ball.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/bowling_ball.java)|
+|그리디|하|볼링공 고르기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/bowling_ball.java)|[Java : 해쉬](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/bowling_ball.java)|
+|그리디|하|[무지의 먹방 라이브(미완성)](https://programmers.co.kr/learn/courses/30/lessons/42891)|[Java : 우선순위 큐](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/muji_mukbang.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/muji_mukbang.java)|
 |구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
 |구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
 |구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
