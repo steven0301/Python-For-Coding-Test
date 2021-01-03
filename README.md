@@ -7,7 +7,7 @@
 |그리디|하|거스름돈|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/change.java)||
 |그리디|하|큰 수의 법칙|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/large_number.java)||
 |그리디|하|숫자 카드 게임|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/card.java)||
-|그리디|하|1이 될 때까지|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java)||
+|그리디|하|1이 될 때까지|[Java : 그리디](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java), [Java : 다이나믹 프로그래밍](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/make_one.java)||
 |그리디|하|모험가 길드|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/adventurer.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/adventurer.java)|
 |그리디|하|곱하기 혹은 더하기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/multiple_or_add.java)||
 |그리디|하|문자열 뒤집기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/letter_change.java)||
