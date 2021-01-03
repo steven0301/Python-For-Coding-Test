@@ -3,7 +3,7 @@
 [이것이 코딩 테스트다 with 파이썬](https://github.com/ndb796/python-for-coding-test) 책에 대한 문제풀이
 
 |분류|레벨|문제|풀이|오답|
-|:---:|:---:|:---|:---|:---:|
+|:---:|:---:|:---|:---|:---|
 |그리디|하|거스름돈|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/change.java)||
 |그리디|하|큰 수의 법칙|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/large_number.java)||
 |그리디|하|숫자 카드 게임|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/card.java)||
@@ -15,6 +15,7 @@
 |그리디|하|볼링공 고르기|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/bowling_ball.java)|[Java : 해쉬](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/bowling_ball.java)|
 |그리디|하|[&#42; 무지의 먹방 라이브(미완성)](https://programmers.co.kr/learn/courses/30/lessons/42891)|[Java : 우선순위 큐](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/muji_mukbang.java)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-wrong/muji_mukbang.java)|
 |구현|하|[럭키 스트레이트](https://www.acmicpc.net/problem/18406)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/lucky_straight.java)||
+|구현|하|문자열 재정렬<br/>(Facebook 인터뷰)|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/string_rearrangement.java)||
 |구현|하|상하좌우|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/up_down_left_right.java)||
 |구현|하|시각|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/time.java)||
 |구현|하|왕실의 나이트|[Java](https://github.com/steven0301/Python-For-Coding-Test/blob/master/java-correct/knight.java)||
